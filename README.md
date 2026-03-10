@@ -8,7 +8,7 @@ The dataset associated with our paper is available at: https://doi.org/10.7910/D
 
 ## Citation
 
-If you use this code in your research, please cite our paper: ***
+If you use this code in your research, please cite our paper: Emily M Olson, Matthew E Modes, Timothy J Rowe, Patrick G Lyons, Nicholas E Ingraham, Nandita R Nadig, Clara J Schroedl, Catherine A Gao, Variability in First Academic Medicine Job Offers in Pulmonary and Critical Care Medicine, ATS Scholar, 2026; https://doi.org/10.1093/atsscholar/aapag010
 
 ### Requirements
 
